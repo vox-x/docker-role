@@ -1,5 +1,5 @@
 galaxy_info:
-  role_name: webservers
+  role_name: docker
   author: vox-x
   description: Installeert docker
   license: MIT
