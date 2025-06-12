@@ -1,4 +1,4 @@
-#webserver tasks
+#Docker install tasks
 - name: Installeer docker dependencies
   apt:
     name: "{{item}}"
